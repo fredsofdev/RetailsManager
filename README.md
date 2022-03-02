@@ -1,1 +1,1 @@
-# RetailsManager
+# Retails Manager
